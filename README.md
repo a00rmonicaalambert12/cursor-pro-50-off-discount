@@ -12,6 +12,7 @@ Here is the exact link to claim the 50% discount:
 
 *(Full disclosure: you get a discount, and I get a small usage credit which helps me keep coding. Win-win!)*
 
+*LIMIT REACHED! SEE YOU NEXT MONTH!*
 ---
 
 ### 🛠️ How to use this template
