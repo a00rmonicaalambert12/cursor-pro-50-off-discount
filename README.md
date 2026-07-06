@@ -8,11 +8,11 @@ A clean and practical `.cursorrules` template to make Cursor's AI (Composer and 
 If you are planning to upgrade to **Cursor Pro** or **Ultra**, you can use my referral link to get **50% off your first month** (applies to new accounts or first paid subscription). 
 
 Here is the exact link to claim the 50% discount:
-👉 **https://cursor.com/referral?code=K758MOQZGYPN**
+👉 **[https://cursor.com/referral?code=K758MOQZGYPN]**
 
 *(Full disclosure: you get a discount, and I get a small usage credit which helps me keep coding. Win-win!)*
 
-*LIMIT REACHED! SEE YOU NEXT MONTH!*
+*NEW REF 5th JULY!*
 ---
 
 ### 🛠️ How to use this template
