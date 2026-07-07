@@ -1,30 +1,35 @@
-# 🔥 [JULY 2026] Get 50% OFF Cursor Pro/Ultra + Best .cursorrules Template
+# 🔥 [JULY 2026] Get 50% OFF Cursor Pro/Ultra + Reduce Token Usage with Ponytail!
 
-Are you looking for a working **Cursor Pro Promo Code** or **Discount**? 
+Are you looking to upgrade to **Cursor Pro** or **Ultra** with a discount, while also keeping your AI token usage to an absolute minimum? You are in the right place!
 
+---
+
+### 🎁 Step 1: Claim Your 50% Cursor Discount
 Use the verified referral link below to get **50% OFF your first month** of Cursor Pro or Ultra (applies to new accounts or your first paid subscription upgrade).
 
-👉 **[CLAIM YOUR 50% CURSOR DISCOUNT HERE]**
-*(Or copy and paste this link: https://cursor.com/referral?code=K758MOQZGYPN)*
+👉 **[CLAIM YOUR 50% CURSOR DISCOUNT HERE]**  
+*Direct link: https://cursor.com/referral?code=K758MOQZGYPN*
 
 ⚡️ **Status:** Active & Verified (Updated July 2026)  
 *(Full disclosure: you get a direct 50% discount, and I receive a small usage credit which helps support my open-source work. Win-win!)*
 
 ---
 
-## 🛠️ Bonus: Ultimate .cursorrules Template
+### 📉 Step 2: Cut Your Cursor Token Usage using Ponytail
+Once you are on Cursor Pro, you want to make sure your fast premium requests (and token budget) last as long as possible. 
 
-Once you have upgraded, don't let the AI waste your tokens with long, chatty responses. Use this practical `.cursorrules` template to make Cursor's AI (Composer and Chat) smarter, faster, and straight to the point.
+By default, Cursor's AI can be overly chatty and write bloated code. To fix this, we highly recommend integrating **Ponytail** by DietrichGebert.
 
-### How to use this template:
-1. Copy the contents of the `.cursorrules` file in this repository.
-2. Create a new file named `.cursorrules` in the root folder of your project.
-3. Paste the rules inside and save.
-4. Restart your Cursor chat/composer (or start a new chat) for the rules to apply.
+**What is Ponytail?**
+[Ponytail](https://github.com/DietrichGebert/ponytail) is a viral open-source AI coding skill that forces your AI agent to act like a "lazy senior developer". It avoids over-engineering and forces the simplest possible solution first (YAGNI).
 
-### Why use custom rules?
-By default, AI models can be overly verbose. This template forces Cursor to:
-- Write concise, production-ready code.
-- Avoid apologies, pleasantries, or repetitive explanations.
-- Use modern syntax and development best practices.
-- Stop deleting existing code when adding new features.
+According to benchmarks, Ponytail can help you achieve:
+* **80-94% less** generated code.
+* **47-77% less** token cost.
+* **3-6x faster** AI responses.
+
+### 🛠️ How to use Ponytail in Cursor:
+1. Head over to the official repository: **[DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)**.
+2. Navigate to their `.cursor/rules/` directory.
+3. Copy the `ponytail.mdc` file rules into your local `.cursor/rules/` folder inside your project.
+4. Watch Cursor write minimal, highly efficient code while saving you thousands of tokens!
